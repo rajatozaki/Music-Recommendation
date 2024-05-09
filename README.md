@@ -17,8 +17,11 @@ GitHub: Platform for hosting the repository and version control.
 Installation
 Clone the repository:
 git clone https://github.com/rajatozaki/Music-Recommendation.git
+
 Run the Streamlit app:
 streamlit run app.py
+
+
 Data Sources
 Kaggle Dataset: Spotify Million Song Dataset: Used for song metadata and lyrics.
 Preprocessed lyrics data and similarity matrix.
